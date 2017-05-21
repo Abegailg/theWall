@@ -1,0 +1,15 @@
+#myNav{
+    margin-bottom: 0px;
+    background-color: black;
+    height: 50px;
+}
+#myNav a{
+    font-size: 20px;
+}
+.nav-bar li{
+	display:inline;
+	padding:5px;
+	margin:20px;
+    line-height: 10vh;
+}
+.nav-bar a {color: #ECE5CE !important;} 
